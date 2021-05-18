@@ -1,0 +1,11 @@
+{
+	"impact": 3,
+	"order": -1,
+	"icon": "minecraft:stone",
+	"powers": [ 
+		"originsplus:extra_ores",
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
+    "origins:apply__blindness"
+	]
+}
